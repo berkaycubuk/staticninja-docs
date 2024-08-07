@@ -1,5 +1,7 @@
 ---
 title: Adding forms to websites
+sidebar:
+    order: 2
 ---
 
 The core feature is form submission collection is not possible without adding a form to your website. Luckily, Static Ninja Forms makes this easy and fast.

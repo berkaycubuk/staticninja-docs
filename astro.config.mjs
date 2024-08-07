@@ -8,7 +8,7 @@ export default defineConfig({
 			title: 'Static Ninja Support',
 			sidebar: [
 				{
-					label: 'Docs',
+					label: 'Documentation',
 					autogenerate: { directory: 'docs' },
 				},
 			],
